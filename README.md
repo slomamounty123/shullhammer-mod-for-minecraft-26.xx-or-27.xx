@@ -1,5 +1,4 @@
 # shullhammer-mod-for-minecraft-26.xx-or-27.xx
-here ya go its in README
 Hitboxes. Code. Data packs. for wild radical idealists like me.
 
 ---
