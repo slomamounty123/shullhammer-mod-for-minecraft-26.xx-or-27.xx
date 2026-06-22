@@ -1,5 +1,5 @@
 # shullhammer-mod-for-minecraft-26.xx-or-27.xx
-Hitboxes. Code. Data packs. for wild radical idealists like me.
+Hitboxes. Code. Data packs. for wild terrific crazy code developers NOT like me.
 look at other links at the bottom! also swedish translation at bottom
 ---
 
