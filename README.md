@@ -659,4 +659,4 @@ Beräknad utvecklingsinsats: 3–4 spurter. De delade förtrollningarna gör att
 
 LINKS:
 GOOGLE DOCS: https://docs.google.com/document/d/17FY6vMwoVNKfh1z54ikbXXPSnpcVnGUSjuFeSfhze9w/edit?tab=t.0
-PASTE BIN:
+HACKMD: https://hackmd.io/SgSlUVSSTiCc6ks9wDC2HQ
